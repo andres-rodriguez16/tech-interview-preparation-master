@@ -14,5 +14,5 @@ function toCamelCase(str) {
   return results;
 }
 
-console.log(toCamelCase("the-stealth-warrior"));
+console.log(toCamelCase("the_stealth-warrior"));
 console.log(toCamelCase("A-B-C"));
